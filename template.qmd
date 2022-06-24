@@ -1,0 +1,31 @@
+---
+title: "rstudio::conf notes"
+author: ""
+date: "`r lubridate::today()`"
+params:
+  conference: "rstudio::conf"
+  year: 2022
+  location: "Washington, DC"
+  printcode: FALSE
+format: html
+editor: visual
+knitr: true 
+toc: true
+toc_float: true
+theme: cosmo
+---
+
+## Workshops
+
+### workshop-name
+
+```{r cars, echo = params$printcode}
+# eval(parse(text=params$year))
+params$year
+```
+
+
+
+## Conference
+
+### presentation-name
