@@ -4,8 +4,10 @@ author: ""
 date: "`r lubridate::today()`"
 params:
   conference: "rstudio::conf"
-  year: 2022
   location: "Washington, DC"
+  year: 2022
+  start_date: 2022-07-25
+  end_date: 2022-07-28
   printcode: FALSE
 format: html
 editor: visual
