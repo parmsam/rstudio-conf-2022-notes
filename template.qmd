@@ -10,7 +10,7 @@ params:
   end_date: 2022-07-28
   printcode: FALSE
 format: html
-editor: visual
+editor: source
 knitr: true 
 toc: true
 toc_float: true

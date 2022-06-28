@@ -1,0 +1,64 @@
+---
+title: "rstudio::conf notes"
+author: ""
+date: "`r lubridate::today()`"
+params:
+  conference: "rstudio::conf"
+  location: "Washington, DC"
+  year: 2022
+  start_date: 2022-07-25
+  end_date: 2022-07-28
+  printcode: FALSE
+format: html
+editor: source
+knitr: true 
+toc: true
+toc_float: true
+theme: cosmo
+---
+
+## Conference
+
+### Welcome Reception TBD
+### Breakfast Maryland C+D
+### Good practices for applied machine learning - from model development to model deployment Nile
+### R Package Assessment: Lessons from Pharma Mississippi
+### celery - expanding tidymodels to clustering Yangtze
+### Packages and Process Mississippi
+### Lunch Maryland C+D
+### Birds of a Feather - Pharma Maryland B+456
+### How Anchorage Built Alaska’s Vaccine Finder with R Mississippi
+### Inheritance – upgrading a legacy project and making it your own Amazon
+### Levelling Up With GitHub: How To Automate Powerful Open Source Data Projects For Free Yenisey
+### Robust R Deployments: Building a Pipeline from RStudio to Production Yangtze
+### Dissecting the quick fix: Analysing tech-solutionist solutions Yangtze
+### dm: Analyze, build and deploy relational data models Yenisey
+### dbcooper: Turn any database into an R or Python package Yenisey
+### The Past and Future of Shiny Nile
+### Birds of a Feather, Industry Groups TBD
+### Evening Event TBD
+### Breakfast Maryland C+D
+### Birds of a Feather Maryland A+123
+### Reimagine + Collaborate + Share with Quarto Nile
+### Designing internal tools for multi-lingual teams Amazon
+### It's About Time Yangtze
+### Let your mobile shine - Leveraging CSS concepts to make shiny apps mobile responsive Yangtze
+### Zero-setup R workshops with GitHub Codespaces Yangtze
+### Making awesome automations with GitHub Actions Yangtze
+### {shinyslack}: Connecting Slack Teams to Shiny Apps Yangtze
+### leafdown: Interactive multi-layer maps in Shiny apps Yangtze
+### Say Hello! to Multilingual Shiny Apps Yangtze
+### Let's start at the beginning - bits to character encoding in R Yangtze
+### Implications of R syntax in intro stats Yangtze
+### Comparing package versions with Diffify Yangtze
+### Visualizing distributions and uncertainty using ggdist Yangtze
+### The Future of missing data Yangtze
+### Lunch Maryland C+D
+### Birds of a Feather - ML/AI with AWS Sage Maker Maryland B+456
+### A new way to build your Shiny app's UI Yangtze
+### What's new in Shiny UI Yangtze
+### Everything I learned about community building, I learned from growing up in a restaurant Mississippi
+### Dashboard-Builder: Making truly interactive R-Shiny Apps Yangtze
+### Introducing Rhino: Shiny application framework for enterprise Yangtze
+### A Robust Framework for Automated Shiny App Testing Yangtze
+### {shinytest2}: Unit testing for Shiny applications Yangtze

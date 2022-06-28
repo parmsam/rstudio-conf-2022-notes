@@ -1,0 +1,35 @@
+---
+title: "rstudio::conf notes"
+author: ""
+date: "`r lubridate::today()`"
+params:
+  conference: "rstudio::conf"
+  location: "Washington, DC"
+  year: 2022
+  start_date: 2022-07-25
+  end_date: 2022-07-28
+  printcode: FALSE
+format: html
+editor: source
+knitr: true 
+toc: true
+toc_float: true
+theme: cosmo
+---
+
+## Workshops
+
+### Breakfast Maryland C+D
+### Machine Learning with tidymodels
+### Machine Learning with tidymodels
+### Lunch Maryland C+D
+### Machine Learning with tidymodels
+### Book Signing Reception TBD
+### Breakfast Maryland C+D
+### Machine Learning with tidymodels
+### Machine Learning with tidymodels
+### Lunch Maryland C+D
+### Machine Learning with tidymodels
+### Machine Learning with tidymodels
+
+
