@@ -8,6 +8,6 @@ Ensure shed profile and schedule are public in privacy settings for web scrape.
 
 ## Programs
 - `webscape.r`: script to scrape event names
-- `template.qmd`: template for conference note taking
-- `workshop.qmd`: personal conference notes
-- `conference.qmd`: personal workshop notes
+- `templates/template.qmd`: template for conference note taking
+- `notes/workshop.qmd`: personal conference notes
+- `notes/conference.qmd`: personal workshop notes
