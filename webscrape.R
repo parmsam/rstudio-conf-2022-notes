@@ -6,9 +6,11 @@ library(stringr)
 library(clipr)
 
 # ensure shed profile and schedule are public in privacy settings ----
+
 # declare public profile here  ----
 profile_link <- "https://rstudioconf2022.sched.com/sam1291?iframe=no"
 
+# read html page ----
 html <- read_html(profile_link)
 
 # get html nodes with event names and add h3 format hash ----
@@ -17,9 +19,5 @@ my_sched <- html %>%
   html_text2() %>%
   str_c("### ", .)
 
-# write to clipboard ----
+# write markdown formatted list to clipboard ----
 clipr::write_clip(my_sched)
-
-
-
-
