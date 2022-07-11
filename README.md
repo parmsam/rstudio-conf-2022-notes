@@ -7,7 +7,9 @@ Web scrape public RStudio Conference 2022 schedule for easier note taking. Also,
 Ensure shed profile and schedule are public in privacy settings for web scrape.
 
 ## Programs
-- `webscape.r`: script to scrape event names
+- `webscape.R`: script to scrape event names
 - `templates/template.qmd`: template for conference note taking
 - `notes/workshop.qmd`: personal conference notes
 - `notes/conference.qmd`: personal workshop notes
+- `contact/gen_qrcode.R`: generate personal website QR code
+- `contact/qrcode.svg`: personal QR code
